@@ -123,3 +123,9 @@ output:
 5  27/02/23 21:35:04  
 6  27/02/23 21:35:04  
 ```
+
+## 🐍 Como usar o arquivo requirements.txt
+Esse arquivo permite que você instale os pacotes necessários para usar o código no seu ambiente, pra isso masta rodar o comando abaixo no seu notebook Jupyter, ou no seu prompt de comando sem o "!".
+```
+!pip install -r "C:\Caminho\Do\Seu\Arquivo\requirements.txt"
+```
