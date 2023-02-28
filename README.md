@@ -53,7 +53,7 @@ Horário de fim: 2023-02-27 21:35:14.171001
 
 ### 🛠️ Passo 4:
 Agora basta ver os dados coletados!
-- 📃 Dados de nota geral, quantidade de comentários
+- 📃 Dados de nota geral e quantidade de comentários
 ```python
 print(dados['notas'])
 ```
